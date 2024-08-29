@@ -35,6 +35,8 @@ $$
 
 The provided code uses a semi-implicit discretization to compute a finite differences solution of Eqs. (3) and (4).
 
+![Figure showing results](images/two.png)
+
 ![Figure showing results](images/three.png)
 
 
