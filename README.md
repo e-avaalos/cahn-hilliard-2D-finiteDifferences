@@ -1,4 +1,4 @@
-# cahn-hilliard-2D-spectral
+# cahn-hilliard-2D-finite-differences
 Finite differences solution of coupled Cahn-Hilliard equations in multiple dimensions.
 
 The dynamics of the state of the two mixed systems under consideration, $u$ and $v$ evolves to minimize the value of
@@ -35,7 +35,7 @@ $$
 
 The provided code uses a semi-implicit discretization to compute a finite differences solution of Eqs. (3) and (4).
 
-![Figure showing results](images/ilustraCH2Duv.png)
+![Figure showing results](images/three.png)
 
 
 ## References
